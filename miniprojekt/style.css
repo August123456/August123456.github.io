@@ -1,0 +1,50 @@
+body{
+  margin: 0px;
+}
+
+
+#header {
+  background-color: #FFFFFF;
+  height: 188px;
+}
+#menu {
+}
+.logo {
+  height: 265px;
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+#content {
+  background-color: #FFFFFF;
+  padding: 40px;
+  font-family: 'Xanh Mono', monospace
+}
+
+
+#footer {
+  background-color: #C4C4C4;
+  height: 160px;
+text-align: center;
+}
+s
